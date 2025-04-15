@@ -1,0 +1,8 @@
+#sample input file for RSVP entries
+Alice,Yes
+Bob,Maybe
+Charlie,No
+Diana,Yes
+Eve,Maybe
+Frank,Yes
+Grace,No

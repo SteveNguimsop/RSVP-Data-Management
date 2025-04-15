@@ -1,0 +1,11 @@
+Confirmed Attendees:
+Frank
+Diana
+Alice
+
+RSVP Counts:
+Yes: 3
+No: 2
+Maybe: 2
+
+Total responses: 7
